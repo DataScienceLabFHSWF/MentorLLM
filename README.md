@@ -1,2 +1,2 @@
 # MentorLLM
-Finetuning LLaMa2 for mentoring
+Finetuning LLaMa2 for mentoring of students
